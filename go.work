@@ -6,4 +6,5 @@ use (
 	./hello-world
 	./lasagna
 	./weather-forecast
+	./welcome-to-tech-palace
 )
