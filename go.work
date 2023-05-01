@@ -3,6 +3,7 @@ go 1.20
 use (
 	./animal-magic
 	./annalyns-infiltration
+	./bird-watcher
 	./blackjack
 	./card-tricks
 	./cars-assemble
